@@ -197,7 +197,7 @@ function Home() {
       <section className="values">
         <div className="container">
           <h2>Our Core Values</h2>
-          <div className="values-grid">
+          <div className="values-grid-2x3">
             <div className="value-item">
               <i className="fas fa-heart"></i>
               <h4>Integrity</h4>

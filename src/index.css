@@ -430,6 +430,12 @@ body {
     gap: 2rem;
 }
 
+.values-grid-2x3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
 .value-item {
     text-align: center;
     padding: 2rem;
@@ -830,6 +836,11 @@ body {
         gap: 1rem;
     }
 
+    .values-grid-2x3 {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
     .footer-content {
         grid-template-columns: 1fr;
         gap: 1.5rem;
@@ -988,6 +999,11 @@ body {
     }
 
     .values-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .values-grid-2x3 {
         grid-template-columns: 1fr;
         gap: 1rem;
     }

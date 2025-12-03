@@ -22,12 +22,12 @@ function Gallery() {
     { src: engineerImg, alt: 'Professional Engineering', category: 'Design' },
     { src: preplanningImg, alt: 'Pre-Planning & Site Analysis', category: 'Planning' },
     { src: vintageNeonImg, alt: 'Custom Signage Work', category: 'Installation' },
-    { src: 'https://via.placeholder.com/400x300?text=Construction+Site', alt: 'Active Construction Site', category: 'Projects' },
-    { src: 'https://via.placeholder.com/400x300?text=Heavy+Equipment', alt: 'Heavy Equipment & Machinery', category: 'Equipment' },
-    { src: 'https://via.placeholder.com/400x300?text=Structural+Work', alt: 'Structural Steel Installation', category: 'Construction' },
-    { src: 'https://via.placeholder.com/400x300?text=Welding+Services', alt: 'Professional Welding Services', category: 'Metalwork' },
-    { src: 'https://via.placeholder.com/400x300?text=Quality+Inspection', alt: 'Quality Control & Inspection', category: 'Management' },
-    { src: 'https://via.placeholder.com/400x300?text=Safety+Standards', alt: 'Safety Standards Implementation', category: 'Projects' }
+    { src: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop', alt: 'Active Construction Site', category: 'Projects' },
+    { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=400&h=300&fit=crop', alt: 'Heavy Equipment & Machinery', category: 'Equipment' },
+    { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=400&h=300&fit=crop', alt: 'Structural Steel Installation', category: 'Construction' },
+    { src: 'https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=400&h=300&fit=crop', alt: 'Professional Welding Services', category: 'Metalwork' },
+    { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=400&h=300&fit=crop', alt: 'Quality Control & Inspection', category: 'Management' },
+    { src: 'https://images.unsplash.com/photo-1569163139394-de4798aa62b3?w=400&h=300&fit=crop', alt: 'Safety Standards Implementation', category: 'Projects' }
   ]
 
   return (
