@@ -1,5 +1,4 @@
 import React from 'react'
-import './SocialSidebar.css'
 
 function SocialSidebar() {
   const socialLinks = [
