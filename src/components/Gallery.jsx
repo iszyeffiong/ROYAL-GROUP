@@ -35,7 +35,7 @@ function Gallery() {
       <div className="container">
         <h2>Our Work in Action</h2>
         <div className="gallery-grid">
-          {images.map((image, index) => (
+          {images.slice(0, 9).map((image, index) => (
             <div
               key={index}
               className="gallery-item"
