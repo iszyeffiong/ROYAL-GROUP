@@ -8,7 +8,6 @@ import managementImg from '../assets/images/construction/management.jpg'
 import engineerImg from '../assets/images/construction/engineer.jpg'
 import preplanningImg from '../assets/images/construction/preplanning.jpg'
 import vintageNeonImg from '../assets/images/signage/vintage-neon.jpg'
-import './Gallery.css'
 
 function Gallery() {
   const [selectedImage, setSelectedImage] = useState(null)
