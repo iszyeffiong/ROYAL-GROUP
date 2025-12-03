@@ -22,12 +22,12 @@ function Gallery() {
     { src: engineerImg, alt: 'Professional Engineering', category: 'Design' },
     { src: preplanningImg, alt: 'Pre-Planning & Site Analysis', category: 'Planning' },
     { src: vintageNeonImg, alt: 'Custom Signage Work', category: 'Installation' },
-    { src: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop', alt: 'Active Construction Site', category: 'Projects' },
-    { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=400&h=300&fit=crop', alt: 'Heavy Equipment & Machinery', category: 'Equipment' },
-    { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=400&h=300&fit=crop', alt: 'Structural Steel Installation', category: 'Construction' },
-    { src: 'https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=400&h=300&fit=crop', alt: 'Professional Welding Services', category: 'Metalwork' },
+    { src: 'https://images.unsplash.com/photo-1504328213624-18bdf3c51dcc?w=400&h=300&fit=crop', alt: 'Active Construction Site', category: 'Projects' },
+    { src: 'https://images.unsplash.com/photo-1581092162562-40038f60dd12?w=400&h=300&fit=crop', alt: 'Heavy Equipment & Machinery', category: 'Equipment' },
+    { src: 'https://images.unsplash.com/photo-1576578236099-b77b63b4e06e?w=400&h=300&fit=crop', alt: 'Structural Steel Installation', category: 'Construction' },
+    { src: 'https://images.unsplash.com/photo-1570129477492-45c003cedd70?w=400&h=300&fit=crop', alt: 'Professional Welding Services', category: 'Metalwork' },
     { src: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=400&h=300&fit=crop', alt: 'Quality Control & Inspection', category: 'Management' },
-    { src: 'https://images.unsplash.com/photo-1569163139394-de4798aa62b3?w=400&h=300&fit=crop', alt: 'Safety Standards Implementation', category: 'Projects' }
+    { src: 'https://images.unsplash.com/photo-1581092915550-8173cd3d465b?w=400&h=300&fit=crop', alt: 'Safety Standards Implementation', category: 'Projects' }
   ]
 
   return (
